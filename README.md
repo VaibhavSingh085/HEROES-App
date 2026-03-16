@@ -108,12 +108,16 @@ Tracks contributions and updates the leaderboard accordingly.
 ```bash
 git clone https://github.com/yourusername/heroes-app.git
 cd heroes-app
-
+```
 2. Install dependencies
+```
 npm install
+```
 3. Start the Expo server
+```
 npx expo start
-4. Run the app
+```
+5. Run the app
 
 You can run the app on:
 
